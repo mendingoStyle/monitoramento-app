@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "342256090397",
+    "project_id": "monitoramento-52c54",
+    "storage_bucket": "monitoramento-52c54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342256090397:android:9a947fe6a1e615e51975f4",
+        "android_client_info": {
+          "package_name": "com.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342256090397-j8a826ttbrfqp6ebe4bgmon5esklu6le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVv4bHU7g9ZHoDbLjetdGtZFbM6GdpGH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342256090397-j8a826ttbrfqp6ebe4bgmon5esklu6le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342256090397:android:81dea2b88dcf69e71975f4",
+        "android_client_info": {
+          "package_name": "com.teste.HeartbeartService"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342256090397-j8a826ttbrfqp6ebe4bgmon5esklu6le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVv4bHU7g9ZHoDbLjetdGtZFbM6GdpGH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342256090397-j8a826ttbrfqp6ebe4bgmon5esklu6le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

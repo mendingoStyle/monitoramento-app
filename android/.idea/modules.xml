@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teste.iml" filepath="$PROJECT_DIR$/.idea/modules/teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/teste.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/teste.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1124080964/teste.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1124080964/teste.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-92013799/teste.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-92013799/teste.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1358114052/teste.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-1358114052/teste.react-native-firebase_messaging.iml" />
+    </modules>
+  </component>
+</project>
