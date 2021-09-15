@@ -7,12 +7,12 @@ import { setHeartBeat, store } from './store';
 import AsyncStorage from '@react-native-community/async-storage'
 import messaging from '@react-native-firebase/messaging';
 
-
+messaging().setBackgroundMessageHandler(async remoteMessage => {
+  console.log('Placa Monitorada Identificada', JSON.stringify(remoteMessage.data.placa));
+});
 
 const MyHeadlessTask = async () => {
-  messaging().setBackgroundMessageHandler(async remoteMessage => {
-    console.log('Message handled in the background!', remoteMessage);
-  });
+
 };
 
 const RNRedux = () => (

@@ -40,7 +40,7 @@ function App() {
 
   useEffect(() => {
     const unsubscribe = messaging().onMessage(async remoteMessage => {
-      Alert.alert('A new FCM message arrived!', JSON.stringify(remoteMessage));
+      Alert.alert('Placa Monitorada Identificada',JSON.stringify(remoteMessage.data.placa));
     });
   
     return unsubscribe;
